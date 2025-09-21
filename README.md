@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Elango <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Elango 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ <h3>React & Next.js Developer (1.9 yrs, including 1.3 yrs Internship) | BigCommerce Specialist | AI Enthusiast</h3>
+</h1>
 
 <p align="center">
  <a href=""><img src="https://readme-typing-svg.herokuapp.com?lines=React+%26+Next.js+Developer;AI+Enthusiast;BigCommerce+Specialist;Always+Learning+New+Things&center=true&width=500&height=30&font=georgia"></a>
